@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2804c1fb-2bdc-44c3-a4df-4bb9e59f43ac" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TyIvdQHQVxqSIwgusKIytzxK5r" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_from_tsp/random_15" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tsp_data" />
+      <recent name="$PROJECT_DIR$/random_data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tsp_data" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/algorithm/Tabu_Search" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="random_connected_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Layered_Graph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_connected_graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.random_connected_graph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2804c1fb-2bdc-44c3-a4df-4bb9e59f43ac" name="Default Changelist" comment="" />
+      <created>1574426139497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574426139497</updated>
+      <workItem from="1574426142257" duration="6964000" />
+      <workItem from="1574477721984" duration="1353000" />
+      <workItem from="1574479210591" duration="9815000" />
+      <workItem from="1574515841609" duration="10838000" />
+      <workItem from="1574736573307" duration="5801000" />
+      <workItem from="1574742533994" duration="30000" />
+      <workItem from="1574743017014" duration="6211000" />
+      <workItem from="1574764375526" duration="1012000" />
+      <workItem from="1575894959900" duration="6884000" />
+      <workItem from="1575903290512" duration="829000" />
+      <workItem from="1575904555379" duration="398000" />
+      <workItem from="1575904956018" duration="566000" />
+      <workItem from="1575905524103" duration="390000" />
+      <workItem from="1575905916881" duration="182000" />
+      <workItem from="1575906101112" duration="2668000" />
+      <workItem from="1575908773792" duration="308000" />
+      <workItem from="1575909084353" duration="650000" />
+      <workItem from="1575909737798" duration="116000" />
+      <workItem from="1575909855843" duration="919000" />
+      <workItem from="1575910779940" duration="2895000" />
+      <workItem from="1575938546295" duration="2809000" />
+      <workItem from="1575944782815" duration="1747000" />
+      <workItem from="1576393917310" duration="2884000" />
+      <workItem from="1576397584260" duration="3402000" />
+      <workItem from="1576421264217" duration="5000" />
+      <workItem from="1576422395900" duration="3147000" />
+      <workItem from="1576464385706" duration="7632000" />
+      <workItem from="1576476707635" duration="18674000" />
+      <workItem from="1576759110780" duration="3000" />
+      <workItem from="1576905168983" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Layered_Graph$random_connected_graph.coverage" NAME="random_connected_graph Coverage Results" MODIFIED="1576545698834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
